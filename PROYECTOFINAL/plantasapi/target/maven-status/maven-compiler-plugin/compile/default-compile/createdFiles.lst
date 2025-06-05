@@ -1,0 +1,7 @@
+mx\unam\aragon\ico\is\plantasapi\services\interfaces\PlantaService.class
+mx\unam\aragon\ico\is\plantasapi\services\PlantaServiceImpl.class
+mx\unam\aragon\ico\is\plantasapi\PlantasapiApplication.class
+mx\unam\aragon\ico\is\plantasapi\exceptions\ManejadorGlobalExcepciones.class
+mx\unam\aragon\ico\is\plantasapi\controllers\PlantaRestController.class
+mx\unam\aragon\ico\is\plantasapi\repositories\PlantaRepository.class
+mx\unam\aragon\ico\is\plantasapi\entities\Planta.class
